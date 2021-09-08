@@ -1,0 +1,22 @@
+# How to Make a Peanut Butter and Jelly Sandwhich
+Anyone can quickly make a Peanut Butter and Jelly Sandwhich (PB&J). It's a simple sandwhich that many people enjoy. Shoppers can purchase required ingredients at any grocery store, and the ingredients are cheap.
+## Required Materials:
+* Peanut Butter
+* Jelly
+* Bread
+* Butter Knife
+* Plate
+
+## Steps
+1. Gather all required materials before starting the process to ensure freshness.
+2. Place your plate upright on a clean surface.
+3. Open your bread bag and place 2 slices of bread on the plate, separated.
+4. Immediately close bread bag to preserve freshness for later sandwhiches.
+5. Open containers of peanut butter and jelly.
+6. Use butter knife to evenly spread a layer of jelly on one slice of bread.
+7. (Optional) Clean butter knife with water, a paper towel, or by running the knife over the other slice of bread.
+8. Use butter knife to evenly spread a layer of peanut butter on the other slice of bread.
+9. Close containers of peanut butter and jelly to preserve freshness.
+10. Flip the bread slice with peanut butter onto the slice with jelly so that the edges of the slices match.
+11. (Optional) Cut the sandwhich in half using the butter knife, either diagonally or vertically.
+12. Enjoy your PB&J Sandwhich.
