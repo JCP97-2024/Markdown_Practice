@@ -1,5 +1,6 @@
 # How to Make a Peanut Butter and Jelly Sandwich
 Anyone can quickly make a Peanut Butter and Jelly Sandwhich (PB&J). It's a simple sandwhich that many people enjoy. Shoppers can purchase required ingredients at any grocery store, and the ingredients are cheap.
+![Peanut Butter and Jelly Sandwich](https://www.mashed.com/img/gallery/the-untold-truth-of-the-peanut-butter-and-jelly-sandwich/intro-1592327549.jpg)
 ## Required Materials:
 * Peanut Butter
 * Jelly
