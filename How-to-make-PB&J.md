@@ -9,7 +9,7 @@ Anyone can quickly make a Peanut Butter and Jelly Sandwhich (PB&J). It's a simpl
 * Butter Knife
 * Plate
 
-## Steps
+## Steps:
 1. Gather all required materials before starting.
 2. Place your plate upright on a clean surface.
 3. Place 2 slices of bread on the plate, separated.
